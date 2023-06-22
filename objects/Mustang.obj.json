@@ -1,0 +1,27 @@
+{
+  "created_at": "2023-06-09T23:29:35.712016",
+  "version": "0.1",
+  "mtllibs": [
+    "Mustang.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "BackWheels",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 88320
+    },
+    {
+      "material": "CarBody",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 88320,
+      "byte_length": 304704
+    },
+    {
+      "material": "FrontWheels",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 393024,
+      "byte_length": 88320
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+# Blender 3.5.1 MTL File: 'Mustang.blend'
+# www.blender.org
+
+newmtl BackWheels
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/Admin/PycharmProjects/F105024_RACEGL/textures/Mustang_wheels.png
+
+newmtl CarBody
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/Admin/PycharmProjects/F105024_RACEGL/textures/Mustang_1.png
+
+newmtl FrontWheels
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/Admin/PycharmProjects/F105024_RACEGL/textures/Mustang_wheels.png

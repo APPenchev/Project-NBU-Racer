@@ -1,0 +1,14 @@
+%car_types=BMW,Mustang
+$cars=BMW,4,Mustang,3
+$car_names=BMW_1,Default,BMW_2,Viper,BMW_3,Inferno Fury,BMW_4,Midnight,Mustang_1,Default,Mustang_2,Blue Devil,Mustang_3,Blazer
+$car_attributes=BMW,0.02x3x3x4.5x0.995,Mustang,0.0165x2.5x2x4.85x0.995
+$car_themes=BMW,running_downwards_(bmw's_theme),Mustang,roadside_slide_(mustang's_theme)
+%chosen_car=0,3
+%resolution=2
+%resolutions=640x360,1280x720,1920x1080,2560x1440
+%fov=2
+%fovs=50,60,70,80,90,100
+%music_volume=7
+%music_volumes=0,10,20,30,40,50,60,70,80,90,100
+%in_options=1
+%restarting=0
